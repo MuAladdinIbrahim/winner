@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name" translatable="false">winner</string>
+    <string name="team_a" translatable="false">Team A</string>
+    <string name="_0" translatable="false">0</string>
+    <string name="_3_points" translatable="false">+3 points</string>
+    <string name="free_throw" translatable="false">free throw</string>
+    <string name="_2_points" translatable="false">+2 points</string>
+    <string name="team_b" translatable="false">Team B</string>
+    <string name="reset" translatable="false">reset</string>
+    <string name="the_winner" translatable="false">The Winner</string>
+    <string name="Warriors" translatable="false">Warriors</string>
+    <string name="Pacers" translatable="false">Pacers</string>
+    <string name="Replay" translatable="false">Replay</string>
+    <string name="action_settings">action_settings</string>
+
+</resources>
